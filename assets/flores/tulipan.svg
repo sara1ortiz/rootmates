@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 235 541.37">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: url(#Degradado_sin_nombre_2738);
+        stroke-miterlimit: 10;
+        stroke-width: 20px;
+      }
+
+      .cls-2 {
+        fill: url(#Degradado_sin_nombre_2968-4);
+      }
+
+      .cls-3 {
+        fill: url(#Degradado_sin_nombre_2968-3);
+      }
+
+      .cls-4 {
+        fill: url(#Degradado_sin_nombre_2968-2);
+      }
+
+      .cls-5 {
+        fill: url(#Degradado_sin_nombre_2968);
+      }
+    </style>
+    <linearGradient id="Degradado_sin_nombre_2738" data-name="Degradado sin nombre 2738" x1="-3932.24" y1="540.55" x2="-3932.24" y2="837.7" gradientTransform="translate(4007.8399 1081.9146) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ef8a5e"/>
+      <stop offset="1" stop-color="#6a67a0"/>
+    </linearGradient>
+    <radialGradient id="Degradado_sin_nombre_2968" data-name="Degradado sin nombre 2968" cx="141.19" cy="46.7" fx="141.19" fy="46.7" r="46.7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#eccf29"/>
+      <stop offset="1" stop-color="#6a67a0"/>
+    </radialGradient>
+    <radialGradient id="Degradado_sin_nombre_2968-2" data-name="Degradado sin nombre 2968" cx="6247.3" cy="120.42" fx="6247.3" fy="120.42" r="114.53" gradientTransform="translate(-1968.2118) scale(.3463 1)" xlink:href="#Degradado_sin_nombre_2968"/>
+    <radialGradient id="Degradado_sin_nombre_2968-3" data-name="Degradado sin nombre 2968" cx="-12657.61" cy="120.42" fx="-12657.61" fy="120.42" r="114.53" gradientTransform="translate(-4294.3863) scale(-.3463 1)" xlink:href="#Degradado_sin_nombre_2968"/>
+    <radialGradient id="Degradado_sin_nombre_2968-4" data-name="Degradado sin nombre 2968" cx="-2059.69" cy="162.2" fx="-2059.69" fy="162.2" r="61.04" gradientTransform="translate(6024.9695) scale(2.8566 1)" xlink:href="#Degradado_sin_nombre_2968"/>
+  </defs>
+  <g id="tallos">
+    <path class="cls-1" d="M93.19,541.37v-163.15c0-11.07-8.97-20.04-20.04-20.04H29.28c-10.65,0-19.28,8.63-19.28,19.28v42.21c0,10.59,8.61,19.15,19.2,19.1l92.4-.82c10.84-.05,19.59-8.85,19.59-19.69v-174.03"/>
+  </g>
+  <g id="Capa_12" data-name="Capa 12">
+    <circle class="cls-5" cx="141.19" cy="46.7" r="46.7"/>
+    <path class="cls-4" d="M235,146.88c0,63.25-49.61,88.07-49.61,88.07,0,0-29.71-24.82-29.71-88.07S163.48,5.89,185.39,5.89s49.61,77.73,49.61,140.98Z"/>
+    <path class="cls-3" d="M49.5,146.88c0,63.25,49.61,88.07,49.61,88.07,0,0,29.71-24.82,29.71-88.07,0-63.25-7.81-140.98-29.71-140.98s-49.61,77.73-49.61,140.98Z"/>
+    <path class="cls-2" d="M197.84,195.21c0,46.4-22.24,51.01-53.52,51.01s-59.78-4.61-59.78-51.01,28.49-117.02,59.78-117.02,53.52,70.62,53.52,117.02Z"/>
+  </g>
+</svg>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 107.13 107.13">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Degradado_sin_nombre_2775);
+      }
+
+      .cls-2 {
+        fill: url(#Degradado_sin_nombre_145-8);
+      }
+
+      .cls-3 {
+        fill: url(#Degradado_sin_nombre_145-6);
+      }
+
+      .cls-4 {
+        fill: url(#Degradado_sin_nombre_145-7);
+      }
+
+      .cls-5 {
+        fill: url(#Degradado_sin_nombre_145-3);
+      }
+
+      .cls-6 {
+        fill: url(#Degradado_sin_nombre_145-5);
+      }
+
+      .cls-7 {
+        fill: url(#Degradado_sin_nombre_145-4);
+      }
+
+      .cls-8 {
+        fill: url(#Degradado_sin_nombre_145);
+      }
+
+      .cls-9 {
+        fill: url(#Degradado_sin_nombre_2776);
+      }
+
+      .cls-10 {
+        fill: url(#Degradado_sin_nombre_145-2);
+      }
+    </style>
+    <radialGradient id="Degradado_sin_nombre_2776" data-name="Degradado sin nombre 2776" cx="53.56" cy="52.59" fx="53.56" fy="52.59" r="11.54" gradientUnits="userSpaceOnUse">
+      <stop offset=".48" stop-color="#ef8a5e"/>
+      <stop offset="1" stop-color="#eccf29"/>
+    </radialGradient>
+    <radialGradient id="Degradado_sin_nombre_145" data-name="Degradado sin nombre 145" cx="53.56" cy="32.07" fx="53.56" fy="32.07" r="23.7" gradientUnits="userSpaceOnUse">
+      <stop offset=".25" stop-color="#ef8a5e"/>
+      <stop offset="1" stop-color="#eccf29"/>
+    </radialGradient>
+    <radialGradient id="Degradado_sin_nombre_145-2" data-name="Degradado sin nombre 145" cy="75.06" fy="75.06" r="23.7" xlink:href="#Degradado_sin_nombre_145"/>
+    <radialGradient id="Degradado_sin_nombre_145-3" data-name="Degradado sin nombre 145" cx="75.06" cy="52.59" fx="75.06" fy="52.59" r="23.7" xlink:href="#Degradado_sin_nombre_145"/>
+    <radialGradient id="Degradado_sin_nombre_145-4" data-name="Degradado sin nombre 145" cx="32.07" cy="52.59" fx="32.07" fy="52.59" r="23.7" xlink:href="#Degradado_sin_nombre_145"/>
+    <radialGradient id="Degradado_sin_nombre_145-5" data-name="Degradado sin nombre 145" cx="69.25" cy="36.18" fx="69.25" fy="36.18" r="23.94" xlink:href="#Degradado_sin_nombre_145"/>
+    <radialGradient id="Degradado_sin_nombre_145-6" data-name="Degradado sin nombre 145" cx="36.77" cy="69.56" fx="36.77" fy="69.56" r="23.94" xlink:href="#Degradado_sin_nombre_145"/>
+    <radialGradient id="Degradado_sin_nombre_145-7" data-name="Degradado sin nombre 145" cx="69.98" cy="68.41" fx="69.98" fy="68.41" r="23.94" xlink:href="#Degradado_sin_nombre_145"/>
+    <radialGradient id="Degradado_sin_nombre_145-8" data-name="Degradado sin nombre 145" cx="36.6" cy="35.94" fx="36.6" fy="35.94" r="23.94" xlink:href="#Degradado_sin_nombre_145"/>
+    <radialGradient id="Degradado_sin_nombre_2775" data-name="Degradado sin nombre 2775" cx="53.56" cy="52.59" fx="53.56" fy="52.59" r="16.8" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#eccf29"/>
+      <stop offset="1" stop-color="#ef8a5e"/>
+    </radialGradient>
+  </defs>
+  <g id="extras">
+    <g>
+      <circle class="cls-9" cx="53.56" cy="52.59" r="11.54"/>
+      <g>
+        <path class="cls-8" d="M54.24,64.13S31.28.05,53.47,0c21.7-.05.77,64.13.77,64.13Z"/>
+        <path class="cls-10" d="M54.24,42.99s-22.97,64.09-.77,64.13c21.7.05.77-64.13.77-64.13Z"/>
+        <path class="cls-5" d="M42.99,53.27s64.09-22.97,64.13-.77c.05,21.7-64.13.77-64.13.77Z"/>
+        <path class="cls-7" d="M64.13,53.27S.05,30.3,0,52.5c-.05,21.7,64.13.77,64.13.77Z"/>
+        <path class="cls-6" d="M45.96,60.75S73.9-1.33,89.91,14.04c15.66,15.03-43.95,46.71-43.95,46.71Z"/>
+        <path class="cls-3" d="M60.63,45.53S-.38,75.74,15.57,91.17s45.06-45.64,45.06-45.64Z"/>
+        <path class="cls-4" d="M45.4,45.12s62.08,27.94,46.71,43.95-46.71-43.95-46.71-43.95Z"/>
+        <path class="cls-2" d="M60.62,59.8S30.42-1.21,14.98,14.73C-.12,30.33,60.62,59.8,60.62,59.8Z"/>
+      </g>
+      <circle class="cls-1" cx="53.56" cy="52.59" r="16.8"/>
+    </g>
+  </g>
+</svg>

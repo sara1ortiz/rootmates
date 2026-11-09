@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 66.35 88.06">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Degradado_sin_nombre_2968-4);
+      }
+
+      .cls-2 {
+        fill: url(#Degradado_sin_nombre_2968-3);
+      }
+
+      .cls-3 {
+        fill: url(#Degradado_sin_nombre_2968-2);
+      }
+
+      .cls-4 {
+        fill: url(#Degradado_sin_nombre_2968);
+      }
+    </style>
+    <radialGradient id="Degradado_sin_nombre_2968" data-name="Degradado sin nombre 2968" cx="32.79" cy="16.7" fx="32.79" fy="16.7" r="16.7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#eccf29"/>
+      <stop offset="1" stop-color="#6a67a0"/>
+    </radialGradient>
+    <radialGradient id="Degradado_sin_nombre_2968-2" data-name="Degradado sin nombre 2968" cx="4405.73" cy="43.07" fx="4405.73" fy="43.07" r="40.96" gradientTransform="translate(-1473.6218) scale(.3463 1)" xlink:href="#Degradado_sin_nombre_2968"/>
+    <radialGradient id="Degradado_sin_nombre_2968-3" data-name="Degradado sin nombre 2968" cx="-9499.73" cy="43.07" fx="-9499.73" fy="43.07" r="40.96" gradientTransform="translate(-3275.7347) scale(-.3463 1)" xlink:href="#Degradado_sin_nombre_2968"/>
+    <radialGradient id="Degradado_sin_nombre_2968-4" data-name="Degradado sin nombre 2968" cx="-1605.88" cy="58.01" fx="-1605.88" fy="58.01" r="21.83" gradientTransform="translate(4620.2041) scale(2.8566 1)" xlink:href="#Degradado_sin_nombre_2968"/>
+  </defs>
+  <g id="extras">
+    <g>
+      <circle class="cls-4" cx="32.79" cy="16.7" r="16.7"/>
+      <path class="cls-3" d="M66.35,52.53c0,22.62-17.74,31.5-17.74,31.5,0,0-10.63-8.88-10.63-31.5S40.77,2.11,48.6,2.11s17.74,27.8,17.74,50.42Z"/>
+      <path class="cls-2" d="M0,52.53c0,22.62,17.74,31.5,17.74,31.5,0,0,10.63-8.88,10.63-31.5,0-22.62-2.79-50.42-10.63-50.42S0,29.91,0,52.53Z"/>
+      <path class="cls-1" d="M53.06,69.82c0,16.6-7.95,18.24-19.14,18.24s-21.38-1.65-21.38-18.24,10.19-41.85,21.38-41.85,19.14,25.26,19.14,41.85Z"/>
+    </g>
+  </g>
+</svg>
